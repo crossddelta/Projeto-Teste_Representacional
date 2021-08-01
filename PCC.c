@@ -9,6 +9,7 @@
 /*Constantes*/
 #define N 50
 
+/*Estrutura do registro*/
 typedef struct {
 	int numFrase;
 	char Frase[N];
